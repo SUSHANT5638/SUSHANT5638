@@ -1,0 +1,12 @@
+pandas
+numpy
+opencv_python
+cmake
+dlib
+face_recognition
+Flask
+flask_sqlalchemy
+flask_migrate 
+recognize
+openpyxl
+os
